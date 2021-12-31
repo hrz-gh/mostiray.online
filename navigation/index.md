@@ -23,6 +23,7 @@
 ## Fun
 
 -   [Bilibili](https://t.bilibili.com/)
+-   [喜加一](https://steamstats.cn/xi)
 -	[twitter](https://mobile.twitter.com/home)
 -   [GoGoAnime](https://gogoanime.cm/)
 -   [dilidili](http://dilidili9.com/)
