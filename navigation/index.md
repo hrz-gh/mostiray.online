@@ -8,6 +8,7 @@
 - [bilibili](https://t.bilibili.com/)
 - [twitter](https://mobile.twitter.com/home)
 - [pixiv](https://www.pixiv.net/en/)
+- [Windows软件下载](https://www.aliyundrive.com/s/HLufGgxwXas)
 
 ## Study
 
