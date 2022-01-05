@@ -1,34 +1,21 @@
 # Navigation
 
+## Home
+
+- [坚果云](https://www.jianguoyun.com/#/)
+- [阿里云盘](https://www.aliyundrive.com/drive/)
+- [日记](http://1diary.me/web2/#/list/)
+- [bilibili](https://t.bilibili.com/)
+- [twitter](https://mobile.twitter.com/home)
+- [pixiv](https://www.pixiv.net/en/)
+
 ## Study
 
 - [XuetangX](https://www.xuetangx.com/my-courses/current/)
 - [PAT](https://pintia.cn/problem-sets/994805342720868352/problems/type/7/)
 
-## Search
-
-- [iData](https://www.cn-ki.net/)
-- [WiKipedia](https://zh.wikipedia.org/)
-- [YandexImages](https://yandex.com/images/)
-
-## Books
-
-- [Library Genesis](http://libgen.li/)
-- [Mox.moe](https://mox.moe/)
-- [Z-Library](https://z-lib.org/)
-
-## Form
-
-- [zFrontier](https://www.zfrontier.com/)
-- [V2EX](https://www.v2ex.com/)
-- [Adafruit Industries](https://www.adafruit.com/)
-- [Instructables](https://www.instructables.com/)
-
 ## Fun
 
-- [Bilibili](https://t.bilibili.com/)
-- [喜加一](https://steamstats.cn/xi)
-- [twitter](https://mobile.twitter.com/home)
 - [GoGoAnime](https://gogoanime.cm/)
 - [dilidili](http://dilidili9.com/)
 - [漫画](https://wnacg.com/)
@@ -56,8 +43,3 @@
 - [PPT Template](https://slidesgo.com/)
 - [QMC转MP3 NCM转MP3](http://convert.freelrc.com/)
 - [Graph maker tool](https://graphmaker.imageonline.co/)
-
-## Extensions
-
-- [Greasy Fork](https://greasyfork.org/)
-- [Via](http://via-app.cn/#/tabBar/home)
