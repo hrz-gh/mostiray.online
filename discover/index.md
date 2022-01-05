@@ -3,7 +3,7 @@
 ## 信息
 
 - [今日热榜](https://tophub.today)
-- [steam | epic 促销](https://steamstats.cn/xi)
+- [steam epic 促销](https://steamstats.cn/xi)
 
 ## 社区
 

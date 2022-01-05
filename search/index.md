@@ -3,7 +3,7 @@
 ## 开源软件
 
 - [github](https://github.com/)
-	-[镜像](https://hub.fastgit.org/)
+	- [镜像](https://hub.fastgit.org/)
 
 ## 电子书
 
