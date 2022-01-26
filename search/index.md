@@ -27,4 +27,3 @@
 ## 扩展
 
 - [Greasy Fork](https://greasyfork.org)
-- [Via](http://via-app.cn/#/tabBar/home)
