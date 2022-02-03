@@ -5,6 +5,7 @@
 - [坚果云](https://www.jianguoyun.com/#)
 - [阿里云盘](https://www.aliyundrive.com/drive)
 - [日记](http://1diary.me/web2/#/list)
+- [亚马逊中国](https://www.amazon.cn/)
 - [bilibili](https://t.bilibili.com)
 - [twitter](https://mobile.twitter.com/home)
 - [pixiv](https://www.pixiv.net/en)
@@ -45,3 +46,4 @@
 - [PPT Template](https://slidesgo.com)
 - [QMC转MP3 NCM转MP3](http://convert.freelrc.com)
 - [Graph maker tool](https://graphmaker.imageonline.co)
+- [硬件工具](https://ldtstore.com.cn/ldtools/)
