@@ -18,6 +18,7 @@
 
 ## Fun
 
+- [影猫](https://www.mvcat.com)
 - [GoGoAnime](https://gogoanime.cm)
 - [dilidili](http://dilidili9.com)
 - [漫画](https://wnacg.com)
@@ -38,6 +39,9 @@
 
 ## Tool
 
+- [自动上色](https://petalica-paint.pixiv.dev)
+- [多平台互传](https://snapdrop.net/#)
+- [注册平台](https://www.reg007.com)
 - [dogcloud](https://dogcloud.best)
 - [dynadot](https://www.dynadot.com)
 - [cloudflare](https://dash.cloudflare.com/login)
