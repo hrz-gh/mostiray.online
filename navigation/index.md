@@ -11,6 +11,14 @@
 - [pixiv](https://www.pixiv.net/en)
 - [Windows软件下载](https://www.aliyundrive.com/s/HLufGgxwXas)
 
+## 社区
+
+- [feedly](https://feedly.com/i/my)
+- [zFrontier](https://www.zfrontier.com)
+- [V2EX](https://www.v2ex.com)
+- [Adafruit Industries](https://www.adafruit.com)
+- [Instructables](https://www.instructables.com)
+
 ## Study
 
 - [XuetangX](https://www.xuetangx.com/my-courses/current)

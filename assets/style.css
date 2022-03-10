@@ -7,9 +7,9 @@
 }
 
 body {
-	background: #38393c;
+	background: #f2ece3;
 	font: 24px/26px "Courier New", Courier, mono;
-	color: #fff;
+	color: #4a341c;
 }
 
 div.wrap {
@@ -27,19 +27,19 @@ h1, h3 {
 	white-space: pre;
 	color: #999;
 }
-	h1 b {
-		color: #ddd;
-	}
+h1 b {
+	color: #7088af;
+}
 
 
 h3 b {
 	display: inline-block;
-	color: #fff;
+	color: #4a4674;
 	width: 200px;
 }
 
 h3 span {
-	color: #aaa;
+	color: #4a341c;
 	font-style: normal;
 }
 	h3 span.link:hover, a h3:hover span.link {
